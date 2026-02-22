@@ -1,8 +1,3 @@
-# Fire-Detection-System
-# Fire-Detection-System
-Here’s a professional, clear, and concise README for your fire detection project:
-
----
 
 # AI-Powered Fire Detection System
 
